@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Uppunuti Siddhartha</h1>
 <h3 align="center">🚀 Software & Web Developer | Backend & Frontend Enthusiast</h3>
 
-<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
----
+<table>
+<tr>
+<td>
 
 ### 🌟 About Me  
 - 🔧 Skilled in **Python, Django, React.js, JavaScript, HTML, CSS**  
-- 🌱 Exploring **Backend Engineering & Front-End Frameworks**  
+- 🌱 Exploring **Backend Engineering & Front-End frameworks**  
 - 💬 Ask me about **Web Development | APIs | Full Stack**  
 - ⚡ Debugging fuel: ☕ coffee + 🎵 music  
 
----
+</td>
+<td>
+  <img alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+</td>
+</tr>
+</table>
+
 
 ### 🛠️ Tech Toolbox  
 
