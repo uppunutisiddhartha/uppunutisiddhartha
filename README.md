@@ -47,7 +47,7 @@
 ### 🐍 Contribution Activity  
 
 <p align="center">
-  <img src="https://github.com/uppunutisiddhartha/uppunutisiddhartha/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/uppunutisiddhartha/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
