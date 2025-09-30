@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uppunuti Siddhartha</h1>
-<h3 align="center">🚀 A Passionate Software Developer & Web Developer
+<h3 align="center">🚀 A Passionate Software & Web Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -42,14 +42,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=uppunutisiddhartha&theme=shark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=uppunutisiddhartha&theme=shark&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
+---
+
+### 🐍 Contribution Activity  
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uppunutisiddhartha&theme=shark"/>
+  <img src="https://github.com/uppunutisiddhartha/uppunutisiddhartha/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
@@ -64,4 +62,6 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=siddharthasiri&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  🌟 *Thanks for visiting my profile!* 🌟  
+</p>
