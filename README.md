@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uppunuti Siddhartha</h1>
-<h3 align="center">🚀 A Passionate Software Developer from India</h3>
+<h3 align="center">🚀 A Passionate Software Developer & Web Developer
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -7,9 +7,7 @@
 
 ### 🌟 About Me  
 - 🔧 Skilled in **Python, Django, React.js, HTML, CSS, JavaScript**  
-- 🌱 Currently exploring **Backend Engineering & AI integrations**  
-- 💼 Intern at **Varadhi Private Limited**  
-- 📚 Project: *Autism Detection Using Machine Learning*  
+- 🌱 Currently exploring **Backend Engineering & Front-End**    
 - 💬 Ask me about **Web Development | APIs | Full Stack Development**  
 - ⚡ Fun fact: *I debug faster with ☕ coffee and 🎵 music!*  
 
