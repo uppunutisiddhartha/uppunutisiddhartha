@@ -46,8 +46,9 @@
 ### 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=uppunutisiddhartha&limit=5&theme=shark&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+  <img src="https://github.com/uppunutisiddhartha/uppunutisiddhartha/blob/main/github-metrics.svg" alt="metrics" />
 </p>
+
 
 ---
 
