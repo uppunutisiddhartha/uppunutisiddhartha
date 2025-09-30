@@ -41,10 +41,12 @@
 
 ---
 
-### 🐍 Contribution Activity  
+---
+
+### 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://github.com/uppunutisiddhartha/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=uppunutisiddhartha&limit=5&theme=shark&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </p>
 
 ---
