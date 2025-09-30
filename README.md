@@ -1,49 +1,37 @@
-# Hi there 👋, I'm Uppunuti Siddhartha  
-
-🚀 Software Engineer | 🌐 Web Developer | 💡 Tech Enthusiast  
+# Hi 👋, I'm [Your Name]
+🚀 A Passionate Software Developer
 
 ---
 
-## 📊 GitHub Stats  
+### 🌟 About Me
+- 🔧 Skilled in **Python, Django, Java, React, REST APIs**
+- 🌱 Currently learning **Backend Engineering & System Design**
+- 🌐 Check out my portfolio: [My Website](https://yourwebsite.com)
+- 🤝 Looking to collaborate on **Open Source & Innovative Projects**
+- 💬 Ask me about **Web Development | APIs | Backend Systems**
+- ⚡ Fun fact: *I debug faster with ☕ coffee!*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak Stats" height="160"/>
+---
+
+### 🛠️ Languages and Tools
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+---
+
+### 📫 Connect with Me
+- 📧 Email: yourname@gmail.com  
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🔥 Current Stats  
-
-- ⭐ **Total Stars Earned**: 5  
-- 🔄 **Total Commits (last year)**: 67  
-- 🔀 **Total PRs**: 11  
-- 🐞 **Total Issues**: 0  
-- 🌍 **Contributed to (last year)**: 0  
-
-📌 **Total Contributions:** 88 (since 19 Oct 2023)  
-🔥 **Current Streak:** 0 (as of 30 Sep)  
-📈 **Longest Streak:** 3 (11 Sep - 13 Sep)  
-
----
-
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)  
-
----
-⭐️ From [Uppunuti Siddhartha](https://github.com/YOUR_USERNAME)
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
