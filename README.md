@@ -39,14 +39,14 @@
 
 
 
----
+- 
 
 ---
 
-### 📈 Contribution Activity  
+### 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github.com/uppunutisiddhartha/uppunutisiddhartha/blob/main/github-metrics.svg" alt="metrics" />
+  <img src="https://github-profile-trophy.vercel.app/?username=uppunutisiddhartha&theme=onestar&no-frame=true&margin-w=15" />
 </p>
 
 
